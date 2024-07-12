@@ -1,4 +1,4 @@
-# LiterAlua - Challenge ONE (Alura + Oracle Next Education)
+# LiterAlura - Challenge ONE (Alura + Oracle Next Education)
 
 Status do Projeto: Precisando de ajustes
 
