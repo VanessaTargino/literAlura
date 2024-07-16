@@ -9,11 +9,11 @@ FórumHub: Uma API REST usando Spring Boot.
 
 Essa API se concentrará especificamente nos tópicos, e deve permitir aos usuários:
 
-Criar um novo tópico;
-Mostrar todos os tópicos criados;
-Mostrar um tópico específico;
-Atualizar um tópico;
-Eliminar um tópico.
+- Criar um novo tópico;
+- Mostrar todos os tópicos criados;
+- Mostrar um tópico específico;
+- Atualizar um tópico;
+- Eliminar um tópico.
 
 # Pré-requisitos
 
