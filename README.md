@@ -20,9 +20,9 @@ Eliminar um tópico.
 Para executar este projeto, você precisará do Java Development Kit (JDK) instalado em sua máquina, do [Insomnia](https://insomnia.rest/download) para testar o funcionamento da API.
 
 # Linguagens, dependencias e libs utilizadas 📚
-[IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/)
-[Insomnia](https://insomnia.rest/download) 
-[MySQL](https://www.mysql.com/downloads/)
+- [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/)
+- [Insomnia](https://insomnia.rest/download) 
+- [MySQL](https://www.mysql.com/downloads/)
 
 ## Desenvolvedores/Contribuintes :octocat:
 | [<img src="https://avatars.githubusercontent.com/u/139828545?v=4" width=115><br><sub>Vanessa Targino</sub>](https://github.com/VanessaTargino)
